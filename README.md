@@ -138,6 +138,9 @@ The interface internally applies the same preprocessing and feature extraction s
 ### 🎥 Demo Video
 Link:- https://youtu.be/qt6HLdwJNYo?si=_yjPoleBbARFKBxJ
 
+### Report link:
+https://drive.google.com/drive/folders/10MIMNAC-wOFLSAd6D3T72KIzXYhlSG2L?usp=sharing
+
 ### 👤 Author Details
 Name: Yash Sharma
 Enrollment Number: 24116108
